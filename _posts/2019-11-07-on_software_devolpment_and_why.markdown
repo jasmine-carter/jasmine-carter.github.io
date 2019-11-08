@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "On Software Devolpment and "Why?""
-date:       2019-11-08 02:15:05 +0000
+date:       2019-11-07 21:15:06 -0500
 permalink:  on_software_devolpment_and_why
 ---
 
@@ -29,7 +29,7 @@ Well dear reader, I realized that I liked creating art for myself, not necessari
 
 Technology is constantly changing, evolving, and to be part of that and get to learn new things every day is incredibly appealing to me. 
 
-There's creativity and problem solving involved in software development, and those two things are absolutely my cup of tea. Or coffee.
+There's also creativity and problem solving involved in software development, and those two things are absolutely my cup of tea. Or coffee.
 
 So here I am!
 
