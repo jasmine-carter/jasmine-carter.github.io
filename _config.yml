@@ -1,11 +1,11 @@
 # Site settings
-author: Jasmine Carter
-title: 
+author: Jasmine C
+title: NameError
 header-img: img/home-bg.png
 email: jasmine.carter87@gmail.com
-copyright_name: Jasmine Carter
+copyright_name: Jasmine C
 description: > # this means to ignore newlines until "baseurl:"
-  
+  undefined local variable or method 'Blog Title' for main:Object
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  jasmine-carter
