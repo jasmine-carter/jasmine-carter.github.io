@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Ruby CLI Project - Write, Test, Break, Repeat"
-date:       2019-12-04 00:41:41 +0000
+date:       2019-12-03 19:41:42 -0500
 permalink:  ruby_cli_project_-_write_test_break_repeat
 ---
 
