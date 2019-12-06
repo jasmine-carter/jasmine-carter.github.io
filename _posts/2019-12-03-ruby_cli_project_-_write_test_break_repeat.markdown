@@ -6,10 +6,14 @@ permalink:  ruby_cli_project_-_write_test_break_repeat
 ---
 
 
-I'm not going to lie, as I was cruising through the Ruby curriculum, and I ran into my final project phase, I was intimidated, but also pretty excited. I was able to be set free and write some code on my own and define my own problem I wanted to solve. How exciting! 
+I got an incredibly late start to this CLI project in the wake of a wedding and a period of time at work that left me without the brainpower to do much more than stare at a tv. 2 months later, far behind my intended schedule, I arrived at the CLI project. It was intimidating but exciting, but all problems are right?
 
 
 **Step 1 - Define the End Product**
+
+Presented with the challenge of finding a site to scrape data from, and to ensure good OO programming, I initially thought I'd scrape Etsy's main page for categories of adorable items, allow users to drill down to a category and view information about each item in it. And then I saw the javascript, while also thinking that scraping a site whose main appeal is visual, I reconsidered my options. 
+
+I then settled on checking out the New York Time's Bestseller list, inspired by casually browsing it for a gift for my mother-in-law. The site was simple, elegant, and primed for scraping. I also enjoyed that I could drill down three levels. A view of categories of books, a list of books by that category, and then a deep dive into a book itself within that category.
 
 I wanted to build a scraper CLI that took the [New York Times' best seller list](https://www.nytimes.com/books/best-sellers/), and do several things with data avaialble in that site.
 1. Present the user with a list of categories of books on the Best Seller list
